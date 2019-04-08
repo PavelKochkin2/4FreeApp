@@ -1,0 +1,14 @@
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\bin\Debug\netcoreapp2.1\4FreeApp.deps.json
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\bin\Debug\netcoreapp2.1\4FreeApp.runtimeconfig.json
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\bin\Debug\netcoreapp2.1\4FreeApp.runtimeconfig.dev.json
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\bin\Debug\netcoreapp2.1\4FreeApp.dll
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.csprojAssemblyReference.cache
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.csproj.CoreCompileInputs.cache
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.RazorAssemblyInfo.cache
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.RazorAssemblyInfo.cs
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.AssemblyInfoInputs.cache
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.AssemblyInfo.cs
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.RazorTargetAssemblyInfo.cache
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\bin\Debug\netcoreapp2.1\4FreeApp.pdb
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.dll
+C:\Users\p.kochkin\source\repos\4FreeApp\4FreeApp\obj\Debug\netcoreapp2.1\4FreeApp.pdb
