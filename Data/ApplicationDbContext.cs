@@ -3,9 +3,9 @@ using _4FreeApp.Models;
 
 namespace _4FreeApp.Data
 {
-    public class FreeItemContext : DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public FreeItemContext(DbContextOptions<FreeItemContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
             
         }
